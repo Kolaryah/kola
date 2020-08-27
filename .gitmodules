@@ -1,0 +1,3 @@
+[submodule "SubKola"]
+	path = SubKola
+	url = https://github.com/Kolaryah/SubKola.git

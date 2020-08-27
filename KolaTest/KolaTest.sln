@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Formats.USD.ImportMaterials", "Unity.Formats.USD.ImportMaterials.csproj", "{5A2C389E-980C-FEFC-8FFA-D0A5A5979160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Formats.USD.ImportProcessor", "Unity.Formats.USD.ImportProcessor.csproj", "{6F28411C-72AC-F236-198F-EF9E005DCD64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{B747304D-F376-C3EA-289E-881B19573252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Formats.USD.ExportMesh", "Unity.Formats.USD.ExportMesh.csproj", "{91538A62-9608-DB72-D555-02DB98B0F27C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Formats.USD.ImportMesh", "Unity.Formats.USD.ImportMesh.csproj", "{AE9002E2-9410-CE52-EC37-18BA1D923EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Formats.USD.HelloUsd", "Unity.Formats.USD.HelloUsd.csproj", "{1086CB63-17AA-6DF5-F877-454F85219AD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A2C389E-980C-FEFC-8FFA-D0A5A5979160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2C389E-980C-FEFC-8FFA-D0A5A5979160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2C389E-980C-FEFC-8FFA-D0A5A5979160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2C389E-980C-FEFC-8FFA-D0A5A5979160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F28411C-72AC-F236-198F-EF9E005DCD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F28411C-72AC-F236-198F-EF9E005DCD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F28411C-72AC-F236-198F-EF9E005DCD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F28411C-72AC-F236-198F-EF9E005DCD64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B747304D-F376-C3EA-289E-881B19573252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B747304D-F376-C3EA-289E-881B19573252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B747304D-F376-C3EA-289E-881B19573252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B747304D-F376-C3EA-289E-881B19573252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91538A62-9608-DB72-D555-02DB98B0F27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91538A62-9608-DB72-D555-02DB98B0F27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91538A62-9608-DB72-D555-02DB98B0F27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91538A62-9608-DB72-D555-02DB98B0F27C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9002E2-9410-CE52-EC37-18BA1D923EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9002E2-9410-CE52-EC37-18BA1D923EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9002E2-9410-CE52-EC37-18BA1D923EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9002E2-9410-CE52-EC37-18BA1D923EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1086CB63-17AA-6DF5-F877-454F85219AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1086CB63-17AA-6DF5-F877-454F85219AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1086CB63-17AA-6DF5-F877-454F85219AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1086CB63-17AA-6DF5-F877-454F85219AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
