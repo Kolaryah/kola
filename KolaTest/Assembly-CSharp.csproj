@@ -71,6 +71,9 @@
  <Reference Include="Unity.VSCode.Editor">
  <HintPath>D:/project/kola/KolaTest/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.Formats.USD.Runtime">
+ <HintPath>D:/project/kola/KolaTest/Library/ScriptAssemblies/Unity.Formats.USD.Runtime.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>D:/project/kola/KolaTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
@@ -86,17 +89,14 @@
  <Reference Include="Unity.Rider.Editor">
  <HintPath>D:/project/kola/KolaTest/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.Formats.USD.Editor">
+ <HintPath>D:/project/kola/KolaTest/Library/ScriptAssemblies/Unity.Formats.USD.Editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.TextMeshPro">
  <HintPath>D:/project/kola/KolaTest/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>D:/project/kola/KolaTest/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Formats.USD.Runtime">
- <HintPath>D:/project/kola/KolaTest/Library/ScriptAssemblies/Unity.Formats.USD.Runtime.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Formats.USD.Editor">
- <HintPath>D:/project/kola/KolaTest/Library/ScriptAssemblies/Unity.Formats.USD.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -275,11 +275,11 @@
  <Reference Include="UnityEngine.XRModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
  </Reference>
- <Reference Include="USD.NET.Unity">
- <HintPath>D:/project/kola/KolaTest/Library/PackageCache/com.unity.formats.usd@1.0.3-preview.2/Runtime/Plugins/USD.NET.Unity.dll</HintPath>
- </Reference>
  <Reference Include="USD.NET">
  <HintPath>D:/project/kola/KolaTest/Library/PackageCache/com.unity.formats.usd@1.0.3-preview.2/Runtime/Plugins/USD.NET.dll</HintPath>
+ </Reference>
+ <Reference Include="USD.NET.Unity">
+ <HintPath>D:/project/kola/KolaTest/Library/PackageCache/com.unity.formats.usd@1.0.3-preview.2/Runtime/Plugins/USD.NET.Unity.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
